@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Assignment01/static/css/main.1c7f237b.chunk.css",
+    "main.js": "/Assignment01/static/js/main.eef288f8.chunk.js",
+    "main.js.map": "/Assignment01/static/js/main.eef288f8.chunk.js.map",
+    "runtime-main.js": "/Assignment01/static/js/runtime-main.6e295fd5.js",
+    "runtime-main.js.map": "/Assignment01/static/js/runtime-main.6e295fd5.js.map",
+    "static/js/2.e98c0c9d.chunk.js": "/Assignment01/static/js/2.e98c0c9d.chunk.js",
+    "static/js/2.e98c0c9d.chunk.js.map": "/Assignment01/static/js/2.e98c0c9d.chunk.js.map",
+    "static/js/3.40edc3eb.chunk.js": "/Assignment01/static/js/3.40edc3eb.chunk.js",
+    "static/js/3.40edc3eb.chunk.js.map": "/Assignment01/static/js/3.40edc3eb.chunk.js.map",
+    "index.html": "/Assignment01/index.html",
+    "static/css/main.1c7f237b.chunk.css.map": "/Assignment01/static/css/main.1c7f237b.chunk.css.map",
+    "static/js/2.e98c0c9d.chunk.js.LICENSE.txt": "/Assignment01/static/js/2.e98c0c9d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Assignment01/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e295fd5.js",
+    "static/js/2.e98c0c9d.chunk.js",
+    "static/css/main.1c7f237b.chunk.css",
+    "static/js/main.eef288f8.chunk.js"
+  ]
+}
